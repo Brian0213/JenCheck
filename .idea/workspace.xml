@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c139da27-234b-4cbe-9d0f-f55eacd800c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testScripts/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testScripts/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilis/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilis/readProperties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Brian0213"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Brian0213/JenCheck.git",
+    "accountId": "4c79f9f2-ab8c-4000-97d4-7d5905d4f9f3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -35,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "sprint1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>

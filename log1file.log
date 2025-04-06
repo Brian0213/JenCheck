@@ -1,0 +1,66 @@
+2025-04-06 03:31:05,262 :INFO :====== WebDriver manager ======
+2025-04-06 03:31:06,674 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:31:06,829 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:31:06,941 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 03:31:08,108 :INFO :******** Verifying Login test ********
+2025-04-06 03:31:08,108 :INFO :********Call the Browser Configuration********
+2025-04-06 03:31:08,646 :INFO :********Define the LoginPage Driver********
+2025-04-06 03:31:18,649 :INFO :********Type the Username*******
+2025-04-06 03:31:22,201 :INFO :********Type the Password*******
+2025-04-06 03:31:25,415 :INFO :******** Click the Log in Button*******
+2025-04-06 03:31:34,505 :INFO :********Login Test is successful********
+2025-04-06 03:37:40,516 :INFO :====== WebDriver manager ======
+2025-04-06 03:37:42,018 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:37:42,123 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:37:42,221 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 03:37:43,400 :INFO :******** Verifying Login test ********
+2025-04-06 03:37:43,400 :INFO :********Call the Browser Configuration********
+2025-04-06 03:37:43,884 :INFO :********Define the LoginPage Driver********
+2025-04-06 03:37:48,887 :INFO :********Type the Username*******
+2025-04-06 03:37:52,139 :INFO :********Type the Password*******
+2025-04-06 03:37:55,312 :INFO :******** Click the Log in Button*******
+2025-04-06 03:37:59,036 :INFO :******** Click the Logout Menu*******
+2025-04-06 03:39:58,359 :INFO :====== WebDriver manager ======
+2025-04-06 03:39:59,788 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:39:59,888 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:39:59,988 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 03:40:01,410 :INFO :******** Verifying Login test ********
+2025-04-06 03:40:01,410 :INFO :********Call the Browser Configuration********
+2025-04-06 03:40:01,922 :INFO :********Define the LoginPage Driver********
+2025-04-06 03:40:06,926 :INFO :********Type the Username*******
+2025-04-06 03:40:10,201 :INFO :********Type the Password*******
+2025-04-06 03:40:13,439 :INFO :******** Click the Log in Button*******
+2025-04-06 03:40:17,150 :INFO :******** Click the Logout Menu*******
+2025-04-06 03:43:30,663 :INFO :====== WebDriver manager ======
+2025-04-06 03:43:32,133 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:43:32,301 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:43:32,403 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 03:43:33,612 :INFO :******** Verifying Login test ********
+2025-04-06 03:43:33,615 :INFO :********Call the Browser Configuration********
+2025-04-06 03:43:34,241 :INFO :********Define the LoginPage Driver********
+2025-04-06 03:43:39,252 :INFO :********Type the Username*******
+2025-04-06 03:43:42,530 :INFO :********Type the Password*******
+2025-04-06 03:43:45,710 :INFO :******** Click the Log in Button*******
+2025-04-06 03:43:49,629 :INFO :******** Click the Logout Menu*******
+2025-04-06 03:47:25,560 :INFO :====== WebDriver manager ======
+2025-04-06 03:47:26,911 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:47:27,010 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:47:27,108 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 03:47:28,340 :INFO :******** Verifying Login test ********
+2025-04-06 03:47:28,340 :INFO :********Call the Browser Configuration********
+2025-04-06 03:47:28,743 :INFO :********Define the LoginPage Driver********
+2025-04-06 03:47:33,749 :INFO :********Type the Username*******
+2025-04-06 03:47:36,989 :INFO :********Type the Password*******
+2025-04-06 03:47:40,172 :INFO :******** Click the Log in Button*******
+2025-04-06 03:47:44,408 :INFO :******** Click the Logout Menu*******
+2025-04-06 03:51:35,896 :INFO :====== WebDriver manager ======
+2025-04-06 03:51:37,552 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:51:37,665 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 03:51:37,769 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 03:51:39,020 :INFO :******** Verifying Login test ********
+2025-04-06 03:51:39,020 :INFO :********Call the Browser Configuration********
+2025-04-06 03:51:39,445 :INFO :********Define the LoginPage Driver********
+2025-04-06 03:51:44,449 :INFO :********Type the Username*******
+2025-04-06 03:51:47,681 :INFO :********Type the Password*******
+2025-04-06 03:51:50,863 :INFO :******** Click the Log in Button*******
+2025-04-06 03:51:54,893 :INFO :******** Click the Logout Menu*******
