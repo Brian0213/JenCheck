@@ -64,3 +64,207 @@
 2025-04-06 03:51:47,681 :INFO :********Type the Password*******
 2025-04-06 03:51:50,863 :INFO :******** Click the Log in Button*******
 2025-04-06 03:51:54,893 :INFO :******** Click the Logout Menu*******
+2025-04-06 04:15:41,292 :INFO :====== WebDriver manager ======
+2025-04-06 04:15:42,784 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 04:15:42,905 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 04:15:43,015 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 04:15:44,141 :INFO :******** Verifying Login test ********
+2025-04-06 04:15:44,141 :INFO :********Call the Browser Configuration********
+2025-04-06 04:15:44,670 :INFO :********Define the LoginPage Driver********
+2025-04-06 04:15:49,676 :INFO :********Type the Username*******
+2025-04-06 04:15:52,918 :INFO :********Type the Password*******
+2025-04-06 04:15:56,189 :INFO :******** Click the Log in Button*******
+2025-04-06 04:16:12,568 :INFO :********Add Products Test is successful********
+2025-04-06 04:19:24,509 :INFO :====== WebDriver manager ======
+2025-04-06 04:19:25,919 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 04:19:26,030 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 04:19:26,128 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 04:19:27,332 :INFO :******** Verifying Login test ********
+2025-04-06 04:19:27,332 :INFO :********Call the Browser Configuration********
+2025-04-06 04:19:27,731 :INFO :********Define the LoginPage Driver********
+2025-04-06 04:19:32,737 :INFO :********Type the Username*******
+2025-04-06 04:19:36,006 :INFO :********Type the Password*******
+2025-04-06 04:19:39,150 :INFO :******** Click the Log in Button*******
+2025-04-06 04:20:25,259 :INFO :====== WebDriver manager ======
+2025-04-06 04:20:26,307 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 04:20:26,430 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 04:20:26,526 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 04:20:27,687 :INFO :******** Verifying Login test ********
+2025-04-06 04:20:27,687 :INFO :********Call the Browser Configuration********
+2025-04-06 04:20:28,101 :INFO :********Define the LoginPage Driver********
+2025-04-06 04:20:33,101 :INFO :********Type the Username*******
+2025-04-06 04:20:36,432 :INFO :********Type the Password*******
+2025-04-06 04:20:39,633 :INFO :******** Click the Log in Button*******
+2025-04-06 04:20:58,815 :INFO :********Add Products Test is successful********
+2025-04-06 08:16:16,914 :INFO :====== WebDriver manager ======
+2025-04-06 08:16:17,925 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:16:18,048 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:16:18,137 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:16:19,308 :INFO :******** Verifying Login test ********
+2025-04-06 08:16:19,310 :INFO :********Call the Browser Configuration********
+2025-04-06 08:16:20,085 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:16:25,096 :INFO :********Type the Username*******
+2025-04-06 08:16:28,478 :INFO :********Type the Password*******
+2025-04-06 08:16:31,690 :INFO :******** Click the Log in Button*******
+2025-04-06 08:20:44,142 :INFO :====== WebDriver manager ======
+2025-04-06 08:20:45,222 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:20:45,319 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:20:45,425 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:20:46,631 :INFO :******** Verifying Login test ********
+2025-04-06 08:20:46,631 :INFO :********Call the Browser Configuration********
+2025-04-06 08:20:49,920 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:20:54,920 :INFO :********Type the Username*******
+2025-04-06 08:20:58,197 :INFO :********Type the Password*******
+2025-04-06 08:21:01,408 :INFO :******** Click the Log in Button*******
+2025-04-06 08:21:48,019 :INFO :====== WebDriver manager ======
+2025-04-06 08:21:49,043 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:21:49,182 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:21:49,313 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:21:50,432 :INFO :******** Verifying Login test ********
+2025-04-06 08:21:50,437 :INFO :********Call the Browser Configuration********
+2025-04-06 08:21:53,388 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:21:58,394 :INFO :********Type the Username*******
+2025-04-06 08:22:01,634 :INFO :********Type the Password*******
+2025-04-06 08:22:04,839 :INFO :******** Click the Log in Button*******
+2025-04-06 08:22:25,191 :INFO :********Add Products Test is successful********
+2025-04-06 08:22:50,734 :INFO :====== WebDriver manager ======
+2025-04-06 08:22:51,701 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:22:51,856 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:22:51,970 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:22:53,142 :INFO :******** Verifying Login test ********
+2025-04-06 08:22:53,142 :INFO :********Call the Browser Configuration********
+2025-04-06 08:22:56,245 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:23:01,249 :INFO :********Type the Username*******
+2025-04-06 08:23:04,535 :INFO :********Type the Password*******
+2025-04-06 08:23:07,738 :INFO :******** Click the Log in Button*******
+2025-04-06 08:23:16,692 :INFO :********Add Products Test is successful********
+2025-04-06 08:24:13,558 :INFO :====== WebDriver manager ======
+2025-04-06 08:24:15,044 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:24:15,296 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:24:15,601 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:24:16,736 :INFO :******** Verifying Login test ********
+2025-04-06 08:24:16,736 :INFO :********Call the Browser Configuration********
+2025-04-06 08:24:19,864 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:24:24,870 :INFO :********Type the Username*******
+2025-04-06 08:24:28,092 :INFO :********Type the Password*******
+2025-04-06 08:24:31,274 :INFO :******** Click the Log in Button*******
+2025-04-06 08:24:40,234 :INFO :********Add Products Test is successful********
+2025-04-06 08:25:16,178 :INFO :====== WebDriver manager ======
+2025-04-06 08:25:17,149 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:25:17,263 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:25:17,365 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:25:18,511 :INFO :******** Verifying Login test ********
+2025-04-06 08:25:18,511 :INFO :********Call the Browser Configuration********
+2025-04-06 08:25:21,520 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:25:26,524 :INFO :********Type the Username*******
+2025-04-06 08:25:29,768 :INFO :********Type the Password*******
+2025-04-06 08:25:32,981 :INFO :******** Click the Log in Button*******
+2025-04-06 08:29:18,319 :INFO :====== WebDriver manager ======
+2025-04-06 08:29:19,314 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:29:19,433 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:29:19,611 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:29:20,814 :INFO :******** Verifying Login test ********
+2025-04-06 08:29:20,818 :INFO :********Call the Browser Configuration********
+2025-04-06 08:29:24,023 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:29:29,034 :INFO :********Type the Username*******
+2025-04-06 08:29:32,320 :INFO :********Type the Password*******
+2025-04-06 08:29:35,506 :INFO :******** Click the Log in Button*******
+2025-04-06 08:33:17,773 :INFO :====== WebDriver manager ======
+2025-04-06 08:33:18,783 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:33:18,915 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:33:19,015 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:33:20,193 :INFO :******** Verifying Login test ********
+2025-04-06 08:33:20,193 :INFO :********Call the Browser Configuration********
+2025-04-06 08:33:20,716 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:33:25,727 :INFO :********Type the Username*******
+2025-04-06 08:33:28,973 :INFO :********Type the Password*******
+2025-04-06 08:33:32,165 :INFO :******** Click the Log in Button*******
+2025-04-06 08:35:07,279 :INFO :====== WebDriver manager ======
+2025-04-06 08:35:08,781 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:35:08,900 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:35:08,996 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:35:10,139 :INFO :******** Verifying Login test ********
+2025-04-06 08:35:10,139 :INFO :********Call the Browser Configuration********
+2025-04-06 08:35:10,583 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:35:15,595 :INFO :********Type the Username*******
+2025-04-06 08:35:18,865 :INFO :********Type the Password*******
+2025-04-06 08:35:22,066 :INFO :******** Click the Log in Button*******
+2025-04-06 08:36:01,811 :INFO :====== WebDriver manager ======
+2025-04-06 08:36:02,802 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:36:02,931 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:36:03,061 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:36:04,188 :INFO :******** Verifying Login test ********
+2025-04-06 08:36:04,188 :INFO :********Call the Browser Configuration********
+2025-04-06 08:36:04,703 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:36:09,703 :INFO :********Type the Username*******
+2025-04-06 08:36:12,929 :INFO :********Type the Password*******
+2025-04-06 08:36:16,161 :INFO :******** Click the Log in Button*******
+2025-04-06 08:36:37,932 :INFO :********Add Products Test is successful********
+2025-04-06 08:40:03,645 :INFO :====== WebDriver manager ======
+2025-04-06 08:40:04,614 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:40:04,726 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:40:04,831 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:40:05,985 :INFO :******** Verifying Login test ********
+2025-04-06 08:40:05,985 :INFO :********Call the Browser Configuration********
+2025-04-06 08:40:06,440 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:40:11,440 :INFO :********Type the Username*******
+2025-04-06 08:40:14,685 :INFO :********Type the Password*******
+2025-04-06 08:40:17,881 :INFO :******** Click the Log in Button*******
+2025-04-06 08:44:23,768 :INFO :====== WebDriver manager ======
+2025-04-06 08:44:24,756 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:44:24,868 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:44:24,999 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:44:26,138 :INFO :******** Verifying Login test ********
+2025-04-06 08:44:26,138 :INFO :********Call the Browser Configuration********
+2025-04-06 08:44:26,856 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:44:31,865 :INFO :********Type the Username*******
+2025-04-06 08:44:35,085 :INFO :********Type the Password*******
+2025-04-06 08:44:38,277 :INFO :******** Click the Log in Button*******
+2025-04-06 08:49:26,139 :INFO :====== WebDriver manager ======
+2025-04-06 08:49:27,357 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:49:27,476 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:49:27,569 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:49:28,761 :INFO :******** Verifying Login test ********
+2025-04-06 08:49:28,761 :INFO :********Call the Browser Configuration********
+2025-04-06 08:49:29,107 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:49:34,114 :INFO :********Type the Username*******
+2025-04-06 08:49:37,354 :INFO :********Type the Password*******
+2025-04-06 08:49:40,543 :INFO :******** Click the Log in Button*******
+2025-04-06 08:50:01,240 :INFO :********Add Products Test is successful********
+2025-04-06 08:50:45,115 :INFO :====== WebDriver manager ======
+2025-04-06 08:50:46,434 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:50:46,591 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:50:46,738 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:50:58,708 :INFO :******** Verifying Login test ********
+2025-04-06 08:50:58,708 :INFO :********Call the Browser Configuration********
+2025-04-06 08:50:59,150 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:51:04,162 :INFO :********Type the Username*******
+2025-04-06 08:51:07,412 :INFO :********Type the Password*******
+2025-04-06 08:51:22,068 :INFO :====== WebDriver manager ======
+2025-04-06 08:51:23,332 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:51:23,476 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 08:51:23,580 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 08:51:35,570 :INFO :******** Verifying Login test ********
+2025-04-06 08:51:35,570 :INFO :********Call the Browser Configuration********
+2025-04-06 08:51:35,986 :INFO :********Define the LoginPage Driver********
+2025-04-06 08:51:40,997 :INFO :********Type the Username*******
+2025-04-06 08:51:44,277 :INFO :********Type the Password*******
+2025-04-06 08:51:47,452 :INFO :******** Click the Log in Button*******
+2025-04-06 08:52:07,750 :INFO :********Add Products Test is successful********
+2025-04-06 08:52:14,022 :WARNING :Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E5A2EC7910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b1f36831c81a5c95d77cc57217d23178
+2025-04-06 08:52:18,076 :WARNING :Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E5A2EC7A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b1f36831c81a5c95d77cc57217d23178
+2025-04-06 08:52:22,164 :WARNING :Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E5A2EC7C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b1f36831c81a5c95d77cc57217d23178
+2025-04-06 09:03:38,674 :INFO :====== WebDriver manager ======
+2025-04-06 09:03:40,043 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 09:03:40,188 :INFO :Get LATEST chromedriver version for google-chrome
+2025-04-06 09:03:40,307 :INFO :Driver [C:\Users\Owner\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-06 09:03:41,707 :INFO :******** Verifying Login test ********
+2025-04-06 09:03:41,709 :INFO :********Call the Browser Configuration********
+2025-04-06 09:03:42,155 :INFO :********Define the LoginPage Driver********
+2025-04-06 09:03:47,167 :INFO :********Type the Username*******
+2025-04-06 09:03:50,383 :INFO :********Type the Password*******
+2025-04-06 09:03:53,548 :INFO :******** Click the Log in Button*******
+2025-04-06 09:04:13,881 :INFO :********Add Products Test is successful********
+2025-04-06 09:04:20,291 :WARNING :Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002255E2A49A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d39a154dcb3d4d04c1a2737a2ed890d0
+2025-04-06 09:04:24,389 :WARNING :Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002255E2A4B20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d39a154dcb3d4d04c1a2737a2ed890d0
+2025-04-06 09:04:28,461 :WARNING :Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002255E2A4CA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d39a154dcb3d4d04c1a2737a2ed890d0
